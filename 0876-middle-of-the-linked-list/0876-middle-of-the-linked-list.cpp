@@ -11,18 +11,28 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* temp = head;
-        int cnt = 0;
-        while(temp  != NULL){
-            cnt++;
-            temp = temp->next;
+        // ListNode* temp = head;
+        // int cnt = 0;
+        // while(temp  != NULL){
+        //     cnt++;
+        //     temp = temp->next;
            
+        // }
+        // temp = head;
+        // int middle = cnt/2;
+        // while(middle--){
+        //   temp = temp->next;
+        // }
+        // return temp;
+        //------------Tortoise method---------------------------
+
+        ListNode* slow = head ;
+        ListNode* fast = head;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+
         }
-        temp = head;
-        int middle = cnt/2;
-        while(middle--){
-          temp = temp->next;
-        }
-        return temp;
+        return slow;
     }
 };
