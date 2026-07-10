@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ayushgoyal001/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ayushgoyal001/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayushgoyal001/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushgoyal001/DSA/tree/master/0503-next-greater-element-ii) |
 | [1472-design-browser-history](https://github.com/ayushgoyal001/DSA/tree/master/1472-design-browser-history) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushgoyal001/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushgoyal001/DSA/tree/master/0503-next-greater-element-ii) |
 | [1472-design-browser-history](https://github.com/ayushgoyal001/DSA/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushgoyal001/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushgoyal001/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
