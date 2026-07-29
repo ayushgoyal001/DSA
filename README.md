@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushgoyal001/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushgoyal001/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ayushgoyal001/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ayushgoyal001/DSA/tree/master/0061-rotate-list) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushgoyal001/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ayushgoyal001/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushgoyal001/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayushgoyal001/DSA/tree/master/0085-maximal-rectangle) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushgoyal001/DSA/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/ayushgoyal001/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
