@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushgoyal001/DSA/tree/master/0229-majority-element-ii) |
 | [0460-lfu-cache](https://github.com/ayushgoyal001/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ayushgoyal001/DSA/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/ayushgoyal001/DSA/tree/master/0525-contiguous-array) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ayushgoyal001/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ayushgoyal001/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushgoyal001/DSA/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/ayushgoyal001/DSA/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/ayushgoyal001/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayushgoyal001/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/ayushgoyal001/DSA/tree/master/1472-design-browser-history) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayushgoyal001/DSA/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/ayushgoyal001/DSA/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
