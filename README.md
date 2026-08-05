@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/ayushgoyal001/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ayushgoyal001/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ayushgoyal001/DSA/tree/master/0525-contiguous-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/ayushgoyal001/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushgoyal001/DSA/tree/master/0002-add-two-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/ayushgoyal001/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/ayushgoyal001/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/ayushgoyal001/DSA/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/ayushgoyal001/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/ayushgoyal001/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayushgoyal001/DSA/tree/master/0085-maximal-rectangle) |
+| [2965-find-missing-and-repeated-values](https://github.com/ayushgoyal001/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
